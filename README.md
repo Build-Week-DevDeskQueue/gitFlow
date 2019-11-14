@@ -1,6 +1,6 @@
 # gitFlow
 
-What is?
+Answer in your own words what the following do
 
 1. git pull
 2. git fetch
